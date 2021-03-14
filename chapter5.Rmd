@@ -116,6 +116,8 @@ Which of the following best represents our question?
   C. Is $b_1 \neq b_2$?
   D. Are $b_1 = 0$ and $b_2 = 0$ ?
   
+Answer: Is $b_1 \neq b_2$?
+  
 ## Exercise 9
 In the right side of this model only $\varepsilon_ij$ is a random variable. The other two are constants. What is the expected value of $Y_{1j}$?
 
