@@ -42,7 +42,8 @@ What does the theory tell us about the sample average $\bar{X}$ and how it is re
   B. It is a random variable with expected value $\mu$ and standard error $\sigma/\sqrt{N}$.
   C. It is a random variable with expected value $\mu$ and standard error $\sigma$.
   D. Contains no information.
-  
+
+__Answer__:   B. It is a random variable with expected value $\mu$ and standard error $\sigma/\sqrt{N}$.
   
 ## Exercise 4
 So how is this useful?  We are going to use an oversimplified yet illustrative example. Suppose we want to know the average height of our male students, but we only get to measure 50 of the 708. We will use $\bar{X}$ as our estimate. We know from the answer to exercise 3 that the standard estimate of our error $\bar{X}-\mu$ is $\sigma/sqrt{N}$. If want to know what this is, but we don't know $\sigma$. Based on what is described in this section, show your estimate of $\sigma$
